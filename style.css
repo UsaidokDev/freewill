@@ -1,9 +1,57 @@
+body{
+    margin: 0;
+}
 .navbar-brand {
     width: 80px; /* Set the desired width */
     height: auto; /* Let the height adjust proportionally */
 }
 img, svg {
     vertical-align: middle;
-    height: 37px;
+    height: 30px;
     width: auto;
+    margin: 0;
+}
+.about-header{
+    background-image: url('/Image/background.svg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 100px 0;
+    height: 500px;
+    width: auto;
+}
+.background-logo-img{
+    margin-left: 40px;
+    height:100px;
+}
+.yoga_kid{
+    height: 400px;
+    width: auto;
+    margin-left: 154px;
+}
+.logo-second{
+    height: 41px;
+    width: 211px;
+}
+.home-text{
+    color: #2E3192;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.paragraph{
+    color: #2E3192;
+}
+.ronded-box{
+    width: 350px;
+    height: 80px;
+    border: 3px solid #000;
+    border-radius: 10px;
+    border-color: #2E3192;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
 }
