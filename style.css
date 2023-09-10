@@ -1,0 +1,9 @@
+.navbar-brand {
+    width: 80px; /* Set the desired width */
+    height: auto; /* Let the height adjust proportionally */
+}
+img, svg {
+    vertical-align: middle;
+    height: 37px;
+    width: auto;
+}
