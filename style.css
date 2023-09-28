@@ -12,7 +12,7 @@ img, svg {
     margin: 0;
 }
 .about-header{
-    background-image: url('/Image/background.svg');
+    background-image: url('Image/background.svg');
     background-size: cover;
     background-position: center;
     color: #fff;
